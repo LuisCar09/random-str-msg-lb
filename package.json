@@ -1,0 +1,21 @@
+{
+  "name": "random-str-msg-lb",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url":"git@github.com:LuisCar09/random-str-msg-lb.git"
+  },
+  "keywords": [],
+  "author": "Luis Carlos Bravo <luiscbravo94@gmail.com" ,
+  "license": "MIT",
+  "homepage": "git@github.com:LuisCar09/random-str-msg-lb.git",
+  "bin": {
+    "random-str-msg-lb" : "./bin/global.js"
+  },
+  "preferGlobal": true
+}
